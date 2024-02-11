@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
 .hidden{
     display:none;
 }
@@ -30,9 +33,34 @@ li span{
 }
 
 .mensajeEspecial{
-    display: block;
+    color:rgb(187, 186, 186);
+    font-size: 0.7rem;
 }
 
 .textoCentrado{
     text-align: center;
+}
+
+#logoAdmin{
+    padding:20px;
+    padding-left: 30px;
+}
+
+.textoLogin{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    letter-spacing: 3px;
+}
+
+#corporativoLogin{
+    align-items: center;
+}
+
+input:invalid{
+    border: 2px dotted #E87121!important;
+}
+
+input:not([type="submit"]):valid {
+    background-color: rgb(235, 249, 245);
 }
