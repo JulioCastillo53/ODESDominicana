@@ -1,4 +1,19 @@
-V1 - Panel principal listo
+V2 - Modificación de la fuente sb-admin-2.min.css
+- Traducción de la plantilla
+- Login con validaciones
+- Ajuste de fuente
+- Ajuste de metadata a español y ajuste en título de página
+- Ocultar opciones de registro
+- Validación required para ambos campos Bootstrap
+- En input inválido se marca el borde con un borde naranja punteado
+- Validación Pattern en nombre de usuario para usar únicamente caracteres
+- Validación de formulario de crear cliente
+- Ajuste de fuente
+- Ajuste de metadata a español y ajuste en título de página
+- Validación required para campos Bootstrap
+- En input inválido se marca igual que en el Login
+---------------------------------------------------------------  
+- V1 Panel principal listo
 - Ajuste de metadata a español y ajuste en títulos de página
 - Ocultar elementos distrayentes: íconos, gráficas
 - Ajuste de colores de fuentes, secciones
