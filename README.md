@@ -1,3 +1,18 @@
+ V.4
+- Ajuste del logo de Universal Móvil
+Ajustes página principal de la tienda
+- Creación de la sección Servicios
+- Creación de la sección Nosotros
+- Creación de la sección Contadores
+- Creación de la sección Testimonios
+- Creación de la vista de la sección productos
+- Creación de la sección Marcas
+V.3
+- Cambio de identidad gráfica de ODES Dominicana a Universal Móvil
+- Corrección de colores de fuente en el menú principal
+- Corrección de tamaño de logo y disposición del Logo a Universal Móvil
+- Ajuste de estilos según la nueva empresa
+- Creación inicial de la página principal de la tienda para el usuario final
 V2 - Modificación de la fuente sb-admin-2.min.css
 - Traducción de la plantilla
 - Login con validaciones
